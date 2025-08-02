@@ -31,7 +31,7 @@ StayEase is a smart, mobile-based hostel management system that streamlines the 
 
 ---
 
-### 🧑‍💼 Admin Panel (React.js + Firebase)
+### 🧑‍💼 Admin Panel (HTML+Javascript + Firebase)
 - 🔐 **Admin Login**
   - Secured with Firebase Authentication
 
